@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewData["Title"] = "IndexListadoActividadesSegunLugar";
+}
+
+<h1>Listado Actividades Segun Lugar</h1>
+
+<form method="post" action="~/Actividades/ListadoActividadesSegunLugar">
+
+    <label>Lugar</label>
+    <select name="lugar" id="lugar">
+        <option value="-1">Seleccione un lugar</option>
+        @foreach (Obligatorio1_Dominio.Lugar miLugar in Obligatorio1_Dominio.Sistema.Instancia.Lugares)
+        {
+            <option value="@miLugar.Nombre">@miLugar.Nombre  </option>
+        }
+    </select>
+    <input type="submit" value="Seleccionar" onclick="return ValidarDatos();" />
+</form>
+
+<p>@ViewBag.Mensaje</p>
+
+
+<script>
+    function ValidarDatos() {
+
+        let lugar = document.getElementById("lugar").value;
+
+        let validacion = true;
+        let misErrores = "";
+
+        if (lugar === "-1") {
+            misErrores += "Es obligatorio seleccionar un lugar";
+            validacion = false;
+        }
+
+        //envío de alerta con todos los errores
+        if (misErrores.length > 0) {
+            alert(misErrores);
+        }
+        return validacion;
+    }
+</script>

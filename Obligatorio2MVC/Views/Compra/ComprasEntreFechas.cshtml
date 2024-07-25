@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewData["Title"] = "ComprasEntreFechas";
+}
+
+<h1>ComprasEntreFechas</h1>
+
+@if (ViewBag.ComprasEntreFechas != null)
+{
+    @if (ViewBag.ComprasEntreFechas.Count > 0)
+    {
+        <table>
+        @foreach (Obligatorio1_Dominio.Compra miUsuario in ViewBag.ComprasEntreFechas)
+        {
+            <tr>
+                <td>@miUsuario.ToString()</td>
+            </tr>
+        }
+        </table>
+    }
+    else
+    {
+        <p>No existen actividades</p>
+    }
+}
+
+<br />
+<br />
+
+<p>@ViewBag.Mensaje</p>

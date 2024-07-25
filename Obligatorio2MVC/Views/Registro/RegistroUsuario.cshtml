@@ -1,0 +1,103 @@
+﻿
+@{
+    ViewData["Title"] = "RegistroUsuario";
+}
+
+<h1>RegistroUsuario</h1>
+
+<form method="post" action="~/Registro/AltaUsuario">
+
+    <label>Nombre</label>
+    <input type="text" name="nombre" id="nombre" />
+    <br />
+    <label>Apellido</label>
+    <input type="text" name="apellido" id="apellido" />
+    <br />
+    <label>Fecha de nacimiento</label>
+    <input type="date" name="fechaNacimiento" id="fechaNacimiento" />
+    <br />
+    <label>Email</label>
+    <input type="text" name="email" id="email" />
+    <br />
+    <label>Nombre de usuario</label>
+    <input type="text" name="nombreUsuario" id="nombreUsuario" />
+    <br />
+    <label>Contraseña</label>
+    <input type="password" name="contraseña" id="contraseña" />
+    <br />
+    <input type="submit" value="Guardar" onclick="return ValidarDatos();" />
+</form>
+<p>@ViewBag.Mensaje</p>
+<script>
+    function ValidarDatos() {
+        let nombre = document.getElementById("nombre").value;
+        let apellido = document.getElementById("apellido").value;
+        let fechaNacimiento = document.getElementById("fechaNacimiento").value;
+        let email = document.getElementById("email").value;
+        let nombreUsuario = document.getElementById("nombreUsuario").value;
+        let contraseña = document.getElementById("contraseña").value;
+        let validacion = true;
+        let misErrores = "";
+
+        if (nombre === "") {
+            misErrores += "El nombre no puede estar vacío. ";
+            validacion = false;
+        }
+        if (apellido === "") {
+            misErrores += "El apellido no puede estar vacío. ";
+            validacion = false;
+        }
+        if (fechaNacimiento === "") {
+            misErrores += "La fecha de nacimiento es obligatoria. ";
+            validacion = false;
+        }
+        if (email==="") {
+            misErrores += "El email es obligatorio. ";
+            validacion = false;
+        }
+        if (nombreUsuario === "") {
+            misErrores +="El nombre de usuario es obligatorio. ";
+            validacion = false;
+        }
+        if (contraseña === "" || !validarContraseñaJS(contraseña)) {
+           misErrores += "La contraseña es incorrecta. Debe tener minimio 6 caracteres, al menos 1 mayuscula, 1 minuscula y 1 numero. ";
+           validacion = false;
+        }
+        
+        //envío de alerta con todos los errores
+        if (misErrores.length > 0)
+        {
+            alert(misErrores);
+        }
+        return validacion;
+    }
+
+    function validarContraseñaJS(pTexto)//Funcion que devuelve true si se cumple que el string evaluado contiene al menos 1 mayuscula 1 minuscula 1 numero y 6 o mas caracteres
+    {
+        let resultado = false;
+        let minusc = false;
+        let mayusc = false;
+        let numer = false;
+        if (pTexto.length >= 6) {
+            for (let index = 0; index < pTexto.length; index++) {
+                if (pTexto[index] >= 'A' && pTexto[index] <= 'Z') {//al menos una mayuscula
+                    mayusc = true;
+                }
+                if (pTexto[index] >= 'a' && pTexto[index] <= 'z') {//al menos una minuscula
+                    minusc = true;
+                }
+                if (pTexto[index] >= '0' && pTexto[index] <= '9') {//al menos un numero
+                    numer = true;
+                }
+                if (mayusc && minusc && numer) {//si las tres variables se cumplen(true)
+                    resultado = true;
+                    break;
+                }
+            }
+        }
+
+        return resultado;
+
+    }
+
+</script>

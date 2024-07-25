@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewData["Title"] = "Listado de Actividades";
+}
+
+<h1>Listado Actividades</h1>
+
+@if (ViewBag.Actividades.Count > 0)
+{
+    <table>
+        @foreach (Obligatorio1_Dominio.Actividad miActividad in ViewBag.Actividades)
+        {
+            <tr>
+                <td>@miActividad.ToString()</td>
+            </tr>
+        }
+    </table>
+}
+else
+{
+    <p>No existen actividades</p>
+}
+
+@ViewBag.Mensaje

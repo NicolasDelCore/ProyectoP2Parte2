@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewData["Title"] = "ComprasDeMayorValor";
+}
+
+<h1>Compras De Mayor Valor</h1>
+
+@if (ViewBag.ComprasMayorValor.Count > 0)
+{
+    <table>
+        @foreach (Obligatorio1_Dominio.Compra miCompra in ViewBag.ComprasMayorValor)
+        {
+            <tr>
+                <td>@miCompra.ToString()</td>
+            </tr>
+        } 
+    </table>
+}
+else
+{
+    <p>No existen compras</p>
+}

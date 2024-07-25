@@ -1,0 +1,67 @@
+﻿
+@{
+    ViewData["Title"] = "CompraActividades";
+}
+
+<h1>Compras</h1>
+
+<form method="post" action="~/Compra/ComprarActividad">
+
+    <label>Actividad</label>
+    <select name="actividadNombre" id="actividadNombre">
+        <option value="-1">Seleccione una actividad</option>
+        @foreach (Obligatorio1_Dominio.Actividad miActividad in Obligatorio1_Dominio.Sistema.Instancia.Actividades)
+        {
+            if (miActividad.FechaYHora > DateTime.Now)//No permitimos comprar una actividad que ya transcurrio
+            {
+                <option value="@miActividad.Nombre">@miActividad.Nombre</option>
+            }
+        }
+
+    </select>
+    <input type="submit" value="Comprar" onclick="return ValidarDatos();" />
+</form>
+
+<p>@ViewBag.Mensaje</p>
+<br />
+<br />
+<br />
+
+<h1>Actividades disponibles</h1>
+
+@if (ViewBag.Actividades.Count > 0)
+{
+    <table>
+        @foreach (Obligatorio1_Dominio.Actividad miActividad in ViewBag.Actividades)
+        {
+            <tr>
+                <td><br />@miActividad.ToString()<br /></td>
+            </tr>
+        }
+    </table>
+}
+else
+{
+    <p>No existen actividades</p>
+}
+
+<script>
+    function ValidarDatos() {
+
+        let actividadNombre = document.getElementById("actividadNombre").value;
+
+        let validacion = true;
+        let misErrores = "";
+
+        if (actividadNombre === "-1") {
+            misErrores += "Es obligatorio seleccionar una actividad";
+            validacion = false;
+        }
+
+        //envío de alerta con todos los errores
+        if (misErrores.length > 0) {
+            alert(misErrores);
+        }
+        return validacion;
+    }
+</script>

@@ -1,0 +1,34 @@
+﻿
+@{
+    ViewData["Title"] = "CancelarCompras";
+}
+
+<h1>Cancelar Compras recientes</h1>
+<p>Es posible hacer cancelaciones <strong>hasta 24 horas antes del evento.</strong></p>
+
+
+@if (ViewBag.Compras.Count > 0)
+{
+    
+        <table>
+            @foreach (Obligatorio1_Dominio.Compra miCompra in ViewBag.Compras)
+            {
+                @if (miCompra.EstaActiva && miCompra.Actividad.FechaYHora > DateTime.Now.AddHours(24)) //listamos sólo las compras no canceladas, sólo si la actividad tiene fecha mayor a 24 hs
+                {
+                    <tr>
+                        <td><br />@miCompra</td> 
+                        <td><a href ="~/Compra/CompletarCancelacion/@miCompra.Id">CANCELAR</a></td>
+                    </tr>
+                }
+            }
+        </table>
+   
+}
+else
+{
+    <p>No has comprado nada. ¡Comienza hoy!.</p> <!--Capitalismo a full-->
+}
+
+<br />
+<br />
+

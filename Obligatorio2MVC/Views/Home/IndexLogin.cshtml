@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewData["Title"] = "IndexLogin";
+}
+
+<h1>IndexLogin</h1>
+
+<form method="post" action="~/Home/Login"> <!--Una vez completo el formulario se llama al controlador Login (dentro de Home)-->
+    <label>Nombre de usuario</label>
+    <input type="text" name="nombreUsuario" id="nombreUsuario" />
+    <br />
+    <label>Contraseña</label>
+    <input type="password" name="contraseña" id="contraseña" />
+    <br />
+    <input type="submit" value="Iniciar sesión" onclick="return ValidarDatos();" />
+</form>
+<p>@ViewBag.Mensaje</p>
+
+
+<script>
+    function ValidarDatos() {
+        let nombreUsuario = document.getElementById("nombreUsuario").value;
+        let contraseña = document.getElementById("contraseña").value;
+        let validacion = true;
+
+        if (nombreUsuario === "") {
+            alert("El nombre de usuario es obligatorio");
+            validacion = false;
+        }
+        if (contraseña === "") {
+            alert("La contraseña es obligatoria");
+            validacion = false;
+        }
+        return validacion;
+    }
+</script>

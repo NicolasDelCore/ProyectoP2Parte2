@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewData["Title"] = "ListadoUsuariosClientesOrdenados";
+}
+
+<h1>Listado de Usuarios ordenados por apellido y nombre</h1>
+
+
+@if (ViewBag.UsuarioRegistrado.Count > 0)
+{
+    <table>
+        @foreach (Obligatorio1_Dominio.UsuarioRegistrado miUsuario in ViewBag.UsuarioRegistrado)
+        {
+            <tr>
+                <td>@miUsuario.ToString()</td>
+            </tr>
+        }
+    </table>
+}
+else
+{
+    <p>No existen Usuarios</p>
+}

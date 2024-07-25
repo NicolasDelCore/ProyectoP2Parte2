@@ -1,0 +1,34 @@
+﻿
+@{
+    ViewData["Title"] = "ComprarActividad";
+}
+
+<h1>ComprarActividad</h1>
+
+<form method="post" action="~/Compra/RealizarCompra">
+<p>Actividad a comprar: <br /> @ViewBag.actividadEscogida</p>
+<input type="text" hidden name="actividadEscogida" id="actividadEscogida" value="@ViewBag.actividadEscogida" />
+<label>Cantidad de entradas:</label>
+<input type="number" name="cantidadEntradas" id="cantidadEntradas" />
+<br /><br />
+<input type="submit" value="Comprar" onclick="return ConfirmarCompra();" />
+<br />
+</form>
+
+<br />
+<br />
+<p>@ViewBag.Confirmacion</p>
+
+<br />
+<script>
+    function ConfirmarCompra() {
+        let cantidadEntradas = parseInt(document.querySelector("#cantidadEntradas").value);
+        let actividad = document.querySelector("#actividadEscogida").value;
+        let alerta = "";
+        if (cantidadEntradas > 0 && cantidadEntradas != null && !cantidadEntradas.isNaN && actividad != null && actividad != "")  
+        { alerta = "Compra realizada con éxito!"; }
+        else
+        { alerta = "Debe seleccionar una cantidad de entradas o una actividad válida."; }
+        return alert(alerta);
+    }
+</script>

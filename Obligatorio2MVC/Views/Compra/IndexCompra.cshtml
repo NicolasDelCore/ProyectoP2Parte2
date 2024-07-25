@@ -1,0 +1,46 @@
+﻿
+@{
+    ViewData["Title"] = "IndexCompras";
+}
+
+<h1>IndexCompra</h1>
+
+<form method="post" action="~/Compra/ComprasEntreFechas">
+
+    <label>Fecha Inicial</label>
+    <input type="date" name="fechaDesde" id="fechaDesde" />
+    <br />
+    <label>Fecha Final</label>
+    <input type="date" name="fechaHasta" id="fechaHasta" />
+    <br />
+    <input type="submit" value="Filtrar" onclick="return ValidarDatos();" />
+</form>
+<p>@ViewBag.Mensaje</p>
+
+<script>
+    function ValidarDatos() {
+
+        let fechaDesde = document.getElementById("fechaDesde").value;
+        let fechaHasta = document.getElementById("fechaHasta").value;
+
+        let validacion = true;
+        let misErrores = "";
+
+        if (fechaDesde === "") {
+            misErrores += "La fecha Inicial es obligatoria. ";
+            validacion = false;
+        }
+
+        if (fechaHasta === "") {
+            misErrores += "La fecha Final es obligatoria. ";
+            validacion = false;
+        }
+
+        //envío de alerta con todos los errores
+        if (misErrores.length > 0)
+        {
+            alert(misErrores);
+        }
+        return validacion;
+    }
+</script>

@@ -1,0 +1,64 @@
+﻿
+@{
+    ViewData["Title"] = "IndexListadoActividadesSegunFechaYCategoria";
+}
+
+<h1>Index Listado Actividades Segun Fecha Y Categoria</h1>
+
+<form method="post" action="~/Actividades/ListadoActividadesSegunFechaYCategoria">
+
+    <label>Fecha Inicial</label>
+    <input type="date" name="fechaDesde" id="fechaDesde" />
+    <br />
+    <label>Fecha Final</label>
+    <input type="date" name="fechaHasta" id="fechaHasta" />
+    <br />
+    <label>Categoria</label>
+
+    <select name="categoria" id="categoria">
+        <option value="-1">Seleccione una categoria</option>
+        @foreach (Obligatorio1_Dominio.Categoria miCategoria in Obligatorio1_Dominio.Sistema.Instancia.Categorias)
+        {
+            <option value="@miCategoria.Nombre">@miCategoria.Nombre  </option>
+        }
+    </select>
+    <input type="submit" value="Filtrar" onclick="return ValidarDatos();" />
+</form>
+
+<script>
+    function ValidarDatos() {
+
+        let fechaDesde = document.getElementById("fechaDesde").value;
+        let fechaHasta = document.getElementById("fechaHasta").value;
+        let categoria = document.getElementById("categoria").value;
+
+        let validacion = true;
+        let misErrores = "";
+
+        if (fechaDesde === "") {
+            misErrores += "La fecha Inicial es obligatoria. ";
+            validacion = false;
+        }
+
+        if (fechaHasta === "") {
+            misErrores += "La fecha Final es obligatoria. ";
+            validacion = false;
+        }
+
+        if (fechaHasta < fechaDesde) {
+            misErrores += "La fecha Final debe ser mayor a la fecha inicial de su búsqueda. ";
+            validacion = false;
+        }
+
+        if (categoria === "-1") {
+            misErrores += "Es obligatorio seleccionar una Categoria";
+            validacion = false;
+        }
+
+        //envío de alerta con todos los errores
+        if (misErrores.length > 0) {
+            alert(misErrores);
+        }
+        return validacion;
+    }
+</script>
