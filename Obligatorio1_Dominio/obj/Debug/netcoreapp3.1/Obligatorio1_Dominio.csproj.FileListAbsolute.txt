@@ -1,0 +1,157 @@
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\OBLIGATORIO\Obligatorio1\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.deps.json
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\OBLIGATORIO\Obligatorio1\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.dll
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\OBLIGATORIO\Obligatorio1\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.pdb
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\OBLIGATORIO\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\OBLIGATORIO\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.AssemblyInfoInputs.cache
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\OBLIGATORIO\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.AssemblyInfo.cs
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\OBLIGATORIO\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.csproj.CoreCompileInputs.cache
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\OBLIGATORIO\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.dll
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\OBLIGATORIO\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.pdb
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\OBLIGATORIO\Obligatorio1 v2021-10-01\Obligatorio1\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.deps.json
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\OBLIGATORIO\Obligatorio1 v2021-10-01\Obligatorio1\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.dll
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\OBLIGATORIO\Obligatorio1 v2021-10-01\Obligatorio1\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.pdb
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\OBLIGATORIO\Obligatorio1 v2021-10-01\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.csproj.AssemblyReference.cache
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\OBLIGATORIO\Obligatorio1 v2021-10-01\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\OBLIGATORIO\Obligatorio1 v2021-10-01\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.AssemblyInfoInputs.cache
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\OBLIGATORIO\Obligatorio1 v2021-10-01\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.AssemblyInfo.cs
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\OBLIGATORIO\Obligatorio1 v2021-10-01\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.csproj.CoreCompileInputs.cache
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\OBLIGATORIO\Obligatorio1 v2021-10-01\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.dll
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\OBLIGATORIO\Obligatorio1 v2021-10-01\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.pdb
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio1\Obligatorio1 v2021-10-03\Obligatorio1\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.deps.json
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio1\Obligatorio1 v2021-10-03\Obligatorio1\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio1\Obligatorio1 v2021-10-03\Obligatorio1\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.pdb
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio1\Obligatorio1 v2021-10-03\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.csproj.AssemblyReference.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio1\Obligatorio1 v2021-10-03\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio1\Obligatorio1 v2021-10-03\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.AssemblyInfoInputs.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio1\Obligatorio1 v2021-10-03\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.AssemblyInfo.cs
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio1\Obligatorio1 v2021-10-03\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio1\Obligatorio1 v2021-10-03\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio1\Obligatorio1 v2021-10-03\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.pdb
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\OBLIGATORIO\Obligatorio1\Obligatorio1\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.deps.json
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\OBLIGATORIO\Obligatorio1\Obligatorio1\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.dll
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\OBLIGATORIO\Obligatorio1\Obligatorio1\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.pdb
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\OBLIGATORIO\Obligatorio1\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.csproj.AssemblyReference.cache
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\OBLIGATORIO\Obligatorio1\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\OBLIGATORIO\Obligatorio1\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.AssemblyInfoInputs.cache
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\OBLIGATORIO\Obligatorio1\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.AssemblyInfo.cs
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\OBLIGATORIO\Obligatorio1\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.csproj.CoreCompileInputs.cache
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\OBLIGATORIO\Obligatorio1\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.dll
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\OBLIGATORIO\Obligatorio1\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.pdb
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\OBLIGATORIO\Obligatorio1 v2021-10-03\Obligatorio1\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.deps.json
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\OBLIGATORIO\Obligatorio1 v2021-10-03\Obligatorio1\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.dll
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\OBLIGATORIO\Obligatorio1 v2021-10-03\Obligatorio1\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.pdb
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\OBLIGATORIO\Obligatorio1 v2021-10-03\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.csproj.AssemblyReference.cache
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\OBLIGATORIO\Obligatorio1 v2021-10-03\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\OBLIGATORIO\Obligatorio1 v2021-10-03\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.AssemblyInfoInputs.cache
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\OBLIGATORIO\Obligatorio1 v2021-10-03\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.AssemblyInfo.cs
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\OBLIGATORIO\Obligatorio1 v2021-10-03\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.csproj.CoreCompileInputs.cache
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\OBLIGATORIO\Obligatorio1 v2021-10-03\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.dll
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\OBLIGATORIO\Obligatorio1 v2021-10-03\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.pdb
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio1\Obligatorio1 v2021-10-04\Obligatorio1\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.deps.json
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio1\Obligatorio1 v2021-10-04\Obligatorio1\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio1\Obligatorio1 v2021-10-04\Obligatorio1\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.pdb
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio1\Obligatorio1 v2021-10-04\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.csproj.AssemblyReference.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio1\Obligatorio1 v2021-10-04\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio1\Obligatorio1 v2021-10-04\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.AssemblyInfoInputs.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio1\Obligatorio1 v2021-10-04\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.AssemblyInfo.cs
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio1\Obligatorio1 v2021-10-04\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio1\Obligatorio1 v2021-10-04\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio1\Obligatorio1 v2021-10-04\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.pdb
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio2\Obligatorio1\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.deps.json
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio2\Obligatorio1\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio2\Obligatorio1\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.pdb
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio2\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.csproj.AssemblyReference.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio2\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio2\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.AssemblyInfoInputs.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio2\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.AssemblyInfo.cs
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio2\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio2\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio2\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.pdb
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio1\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.deps.json
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio1\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.dll
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio1\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.pdb
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.csproj.AssemblyReference.cache
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.AssemblyInfoInputs.cache
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.AssemblyInfo.cs
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.csproj.CoreCompileInputs.cache
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.dll
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.pdb
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-20\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.deps.json
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-20\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.dll
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-20\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.pdb
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-20\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.csproj.AssemblyReference.cache
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-20\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-20\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.AssemblyInfoInputs.cache
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-20\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.AssemblyInfo.cs
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-20\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.csproj.CoreCompileInputs.cache
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-20\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.dll
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-20\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.pdb
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio2\Favio Obligatorio 2 V2021-11-20\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.csproj.AssemblyReference.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio2\Favio Obligatorio 2 V2021-11-20\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio2\Favio Obligatorio 2 V2021-11-20\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.AssemblyInfoInputs.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio2\Favio Obligatorio 2 V2021-11-20\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.AssemblyInfo.cs
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio2\Favio Obligatorio 2 V2021-11-20\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio2\Favio Obligatorio 2 V2021-11-20\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio2\Favio Obligatorio 2 V2021-11-20\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.pdb
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio2\Favio Obligatorio 2 V2021-11-20\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.deps.json
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio2\Favio Obligatorio 2 V2021-11-20\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio2\Favio Obligatorio 2 V2021-11-20\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.pdb
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-21 v3\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.deps.json
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-21 v3\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.dll
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-21 v3\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.pdb
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-21 v3\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.csproj.AssemblyReference.cache
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-21 v3\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-21 v3\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.AssemblyInfoInputs.cache
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-21 v3\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.AssemblyInfo.cs
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-21 v3\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.csproj.CoreCompileInputs.cache
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-21 v3\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.dll
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-21 v3\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.pdb
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio2\Obligatorio 2 V2021-11-23 v1\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.deps.json
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio2\Obligatorio 2 V2021-11-23 v1\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio2\Obligatorio 2 V2021-11-23 v1\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.pdb
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio2\Obligatorio 2 V2021-11-23 v1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.csproj.AssemblyReference.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio2\Obligatorio 2 V2021-11-23 v1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.AssemblyInfoInputs.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio2\Obligatorio 2 V2021-11-23 v1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.AssemblyInfo.cs
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio2\Obligatorio 2 V2021-11-23 v1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio2\Obligatorio 2 V2021-11-23 v1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio2\Obligatorio 2 V2021-11-23 v1\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.pdb
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-24v2\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.deps.json
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-24v2\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.dll
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-24v2\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.pdb
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-24v2\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.csproj.AssemblyReference.cache
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-24v2\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-24v2\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.AssemblyInfoInputs.cache
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-24v2\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.AssemblyInfo.cs
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-24v2\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.csproj.CoreCompileInputs.cache
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-24v2\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.dll
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-24v2\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.pdb
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-24v3\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.deps.json
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-24v3\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.dll
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-24v3\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.pdb
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-24v3\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.csproj.AssemblyReference.cache
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-24v3\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-24v3\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.AssemblyInfoInputs.cache
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-24v3\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.AssemblyInfo.cs
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-24v3\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.csproj.CoreCompileInputs.cache
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-24v3\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.dll
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-24v3\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.pdb
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-24v4\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.deps.json
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-24v4\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.dll
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-24v4\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.pdb
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-24v4\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.csproj.AssemblyReference.cache
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-24v4\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-24v4\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.AssemblyInfoInputs.cache
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-24v4\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.AssemblyInfo.cs
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-24v4\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.csproj.CoreCompileInputs.cache
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-24v4\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.dll
+C:\Users\FR\Desktop\ORT\Semestre2\Programacion 2\Pruebas\OBLIGATORIO 2\Obligatorio 2 V2021-11-24v4\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.pdb
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio2\Obligatorio 2 V2021-11-24v5\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.deps.json
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio2\Obligatorio 2 V2021-11-24v5\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio2\Obligatorio 2 V2021-11-24v5\Obligatorio1_Dominio\bin\Debug\netcoreapp3.1\Obligatorio1_Dominio.pdb
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio2\Obligatorio 2 V2021-11-24v5\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.AssemblyInfoInputs.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio2\Obligatorio 2 V2021-11-24v5\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.AssemblyInfo.cs
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio2\Obligatorio 2 V2021-11-24v5\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio2\Obligatorio 2 V2021-11-24v5\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio2\Obligatorio 2 V2021-11-24v5\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.pdb
+C:\Users\Nico\Desktop\ORT Nico\Semestre2\Programacion2\Obligatorio2\Obligatorio 2 V2021-11-24v5\Obligatorio1_Dominio\obj\Debug\netcoreapp3.1\Obligatorio1_Dominio.csprojAssemblyReference.cache

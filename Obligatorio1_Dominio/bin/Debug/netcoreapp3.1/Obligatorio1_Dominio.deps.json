@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Obligatorio1_Dominio/1.0.0": {
+        "runtime": {
+          "Obligatorio1_Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Obligatorio1_Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
